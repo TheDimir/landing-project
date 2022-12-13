@@ -1,0 +1,34 @@
+
+ul {
+    list-style-type: none;
+    display: flex;
+    gap: 10px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.top {
+    background-color: #1f2937;
+}
+
+.header-logo {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.header-links, .greeting-secondary-text {
+    font-size: 18px;
+    color: #E5E7EB
+}
+
+.greeting-main-text {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+
+
